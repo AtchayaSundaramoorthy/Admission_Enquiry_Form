@@ -35,7 +35,7 @@ Use submit and reset at the bottom of the form.
 No CSS or JavaScript is to be included. Focus on structure and accessibility.
 
 ## HTML Code:
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -117,9 +117,11 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
 
 </body>
 </html>
-'''
+```
 
 ## Output:
+
+![image](https://github.com/user-attachments/assets/ba094a84-d834-45bd-bad0-0d8b9bb4c01c)
 
 ## Result:
 An Admission Enquiry Form using HTML that collects student details and message for institutional follow-up is successfully created using semantic and readable HTML.
