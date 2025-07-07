@@ -1,5 +1,5 @@
 # Admission_Enquiry_Form
-## Date:
+## Date: 07.07.2025
 
 ## Objective:
 To design a simple Admission Enquiry Form using basic HTML that collects student details such as name, contact, program of interest, and a message for further communication.
